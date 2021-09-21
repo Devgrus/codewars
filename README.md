@@ -2,7 +2,6 @@
 
 ## Rank
 
-import ThemedImage from "@theme/ThemedImage";
 
 Ranks are used to indicate the proficiency of users and the difficulty of Kata. There are two classes of ranks, Kyu and Dan, which are divided in 8 levels each. By increasing order of proficiency/difficulty:
 
